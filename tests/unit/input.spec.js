@@ -230,7 +230,7 @@ describe('form', () => {
         });
     });
 
-    describe('alculate premie', () => {
+    describe('calculate premie', () => {
         it('no input', async () => {
             setup();
             await waitFor(async () => {
